@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1>Hii , I am Priyam Bhattacharya</h1>
 
-<!--
-**itspriyambhattacharya/itspriyambhattacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h2>Languages and Tools Known :</h2>
+     <ol>
+  <li>Adobe Photoshop</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>jQuery</li>
+  <li>Bootstrap</li>
+  <li>WordPress</li>
+  <li>Git and GitHub</li>
+     </ol>
+  
+ 
+ 
+ <h2>Passionate to Learn :</h2>
+   
+   <ul>
+  <li>Angular</li>
+  <li>React</li>
+  <li>PHP</li>
+   </ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning <b>front-end web development</b>
+- 📫 How to reach me: priyambhattacharya6@gmail.com
+
