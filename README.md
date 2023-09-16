@@ -24,5 +24,5 @@
 
 
 - 🌱 I’m currently learning <b>front-end web development</b>
-- 📫 How to reach me: priyambhattacharya6@gmail.com
+- 📫 How to reach me: itspriyambhattacharya@gmail.com
 
