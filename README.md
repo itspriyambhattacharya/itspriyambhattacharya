@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/itspriyambhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itspriyambhattacharya" height="30" width="40" /></a>
 <a href="https://instagram.com/itspriyambhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itspriyambhattacharya" height="30" width="40" /></a>
 <a href="https://www.behance.net/priyambhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="priyambhattacharya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/itspriyambhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itspriyambhattacharya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/itspriyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itspriyambhattacharya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itspriyambhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itspriyambhattacharya" height="30" width="40" /></a>
 </p>
 
