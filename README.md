@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyam Bhattaacharya</h1>
-<h3 align="center">Frontend Developer | Freelancer</h3>
+<h1 align="center">Priyam Bhattaacharya</h1>
+<h3 align="center">B.Sc. CS '24 @University of Calcutta | Frontend Developer | Freelancer</h3>
 
 # 💫 About Me:
 I'm Priyam Bhattacharya, a Computer Science graduate from the University of Calcutta with a strong foundation in C and C++, and I'm currently learning Java and Python to expand my programming skills. I also have experience in frontend web development using HTML, CSS, Bootstrap, Tailwind CSS, and basic JavaScript and jQuery. Additionally, I know Git and GitHub, and I’m currently learning WordPress and Notion.
