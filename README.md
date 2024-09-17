@@ -1,4 +1,4 @@
-<h1 align="center">Priyam Bhattaacharya</h1>
+<h1 align="center">Priyam Bhattacharya</h1>
 <h3 align="center">B.Sc. CS '24 @University of Calcutta</h3>
 
 # 💫 About Me:
