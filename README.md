@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itspriyambhattacharya&label=Profile%20views&color=0e75b6&style=flat" alt="itspriyambhattacharya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itspriyambhattacharya" alt="itspriyambhattacharya" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itspriyambhattacharya" alt="itspriyambhattacharya" /></a> </p> -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itspriyambhattacharya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/connectwithmepb" target="blank"><img src="https://img.shields.io/twitter/follow/connectwithmepb?logo=twitter&style=for-the-badge" alt="connectwithmepb" /></a> </p>
 
@@ -40,6 +43,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itspriyambhattacharya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=itspriyambhattacharya&icon=0&color=0)](https://visitcount.itsvg.in)
 
