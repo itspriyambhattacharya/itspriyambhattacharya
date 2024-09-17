@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyam Bhattaacharya</h1>
 <h3 align="center">Frontend Developer | Freelancer</h3>
 
+# 💫 About Me:
+I'm Priyam Bhattacharya, a Computer Science graduate from the University of Calcutta with a strong foundation in C and C++, and I'm currently learning Java and Python to expand my programming skills. I also have experience in frontend web development using HTML, CSS, Bootstrap, Tailwind CSS, and basic JavaScript and jQuery. Additionally, I know Git and GitHub, and I’m currently learning WordPress and Notion.
+
+Driven by a passion for technology, I thrive on solving complex problems with creative solutions. I’m eager to take on dynamic roles that challenge me to grow and contribute to real-world technological advancements. Let’s connect and explore how we can shape the future of technology together.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itspriyambhattacharya&label=Profile%20views&color=0e75b6&style=flat" alt="itspriyambhattacharya" /> </p>
 
 ## 🏆 GitHub Trophies
