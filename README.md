@@ -13,7 +13,7 @@ Driven by a passion for technology, I thrive on solving complex problems with cr
 
 ![](https://github-profile-trophy.vercel.app/?username=itspriyambhattacharya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/akapriyamb" target="blank"><img src="https://img.shields.io/twitter/follow/akapriyam?logo=twitter&style=for-the-badge" alt="akapriyam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akapriyam" target="blank"><img src="https://img.shields.io/twitter/follow/akapriyam?logo=twitter&style=for-the-badge" alt="akapriyam" /></a> </p>
 
 - 🌱 I’m currently learning **C++, Java, Python, Tailwind CSS, Javascript**
 
