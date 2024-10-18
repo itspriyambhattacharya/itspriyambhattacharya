@@ -13,7 +13,7 @@ Driven by a passion for technology, I thrive on solving complex problems with cr
 
 ![](https://github-profile-trophy.vercel.app/?username=itspriyambhattacharya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/myselfPriyam" target="blank"><img src="https://img.shields.io/twitter/follow/akapriyam?logo=twitter&style=for-the-badge" alt="myselfPriyam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/myselfPriyam" target="blank"><img src="https://img.shields.io/twitter/follow/myselfPriyam?logo=twitter&style=for-the-badge" alt="myselfPriyam" /></a> </p>
 
 - 🌱 I’m currently learning **C++, Java, Python, Tailwind CSS, Javascript, React**
 
@@ -24,7 +24,7 @@ Driven by a passion for technology, I thrive on solving complex problems with cr
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/myselfPriyamriyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myselfPriyam" height="30" width="40" /></a>
+<a href="https://twitter.com/myselfPriyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myselfPriyam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/itspriyambhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itspriyambhattacharya" height="30" width="40" /></a>
 <a href="https://instagram.com/itspriyambhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itspriyambhattacharya" height="30" width="40" /></a>
 <a href="https://www.behance.net/priyambhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="priyambhattacharya" height="30" width="40" /></a>
