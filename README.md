@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-I'm Priyam Bhattacharya, a Computer Science graduate from the University of Calcutta with a strong foundation in C and C++, and I'm currently learning Java and Python to expand my programming skills. I also have experience in frontend web development using HTML, CSS, Bootstrap, Tailwind CSS, and basic JavaScript and jQuery. Additionally, I know Git and GitHub, and I’m currently learning WordPress and Notion.
+I'm Priyam Bhattacharya, a Computer Science graduate from the University of Calcutta with a strong foundation in C and Java, and I'm currently learning C++ and Python to expand my programming skills. I also have experience in web development using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, and Express.js. I'm also learning React.js, Next.js. Additionally, I know Git and GitHub, and I’m currently learning WordPress.
 
 Driven by a passion for technology, I thrive on solving complex problems with creative solutions. I’m eager to take on dynamic roles that challenge me to grow and contribute to real-world technological advancements. Let’s connect and explore how we can shape the future of technology together.
 
