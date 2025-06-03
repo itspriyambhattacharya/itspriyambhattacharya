@@ -19,7 +19,7 @@ I'm Priyam Bhattacharya, a Computer Science graduate from the University of Calc
 
 - 🌱 I’m currently learning: **C++, Java, Python, Tailwind CSS, JavaScript, React**
 - 💬 Ask me about: **C, C++, Web Development**
-- 📫 How to reach me: **itspriyambhattacharya@gmail.com**
+- 📫 How to reach me: **<itspriyambhattacharya@gmail.com>**
 
 ## 🌐 Connect with Me
 
@@ -91,7 +91,8 @@ I'm Priyam Bhattacharya, a Computer Science graduate from the University of Calc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itspriyambhattacharya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspriyambhattacharya&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspriyambhattacharya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspriyambhattacharya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="Top Languages" />
+
 </p>
 
 ## 🔝 Top Contributed Repositories
