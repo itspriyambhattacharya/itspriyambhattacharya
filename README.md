@@ -77,12 +77,6 @@ I am particularly interested in applying algorithmic thinking and data science t
 
 ---
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspriyambhattacharya&show_icons=true&locale=en&layout=compact" alt="itspriyambhattacharya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itspriyambhattacharya&show_icons=true&locale=en" alt="itspriyambhattacharya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itspriyambhattacharya&" alt="itspriyambhattacharya" /></p> -->
-
 ## 📊 GitHub Stats
 
 <p align="center">
