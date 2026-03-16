@@ -77,8 +77,17 @@ I am particularly interested in applying algorithmic thinking and data science t
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspriyambhattacharya&show_icons=true&locale=en&layout=compact" alt="itspriyambhattacharya" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspriyambhattacharya&show_icons=true&locale=en&layout=compact" alt="itspriyambhattacharya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itspriyambhattacharya&show_icons=true&locale=en" alt="itspriyambhattacharya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itspriyambhattacharya&" alt="itspriyambhattacharya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itspriyambhattacharya&" alt="itspriyambhattacharya" /></p> -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itspriyambhattacharya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itspriyambhattacharya&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspriyambhattacharya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="Top Languages" />
+
+</p>
